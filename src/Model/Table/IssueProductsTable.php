@@ -4,11 +4,6 @@ namespace Issue\Model\Table;
 use Cake\ORM\Table;
 
 
-/**
- * Class ShopAddonGroupLocalesTable
- *
- * @package Shop\Model\Table
- */
 class IssueProductsTable extends Table
 {
     /**
